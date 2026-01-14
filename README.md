@@ -11,7 +11,7 @@ Alumno: Rosario Rodolfo Luna Ortiz
 
 ## Definición de Agente
 
-[Esquema del cuaderno: Agente → PEAS]
+Agente → PEAS]
 
 PEAS:
 - Performance
